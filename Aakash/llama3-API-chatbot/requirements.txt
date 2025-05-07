@@ -1,0 +1,4 @@
+langchian-core
+langchain-community
+flask
+ollama==0.1.4
